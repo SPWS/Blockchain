@@ -1,0 +1,11 @@
+{
+  "name": "Electoral System in Blockchain",
+  "author": "Gabriel da Mata Dias",
+  "version": "1.0.0",
+  "main": "./main.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "node-cache": "^5.1.2",
+    "node-forge": "^1.3.1"
+  }
+}
